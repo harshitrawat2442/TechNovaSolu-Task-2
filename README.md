@@ -103,20 +103,3 @@ Working on this project gave me practical experience in building responsive webs
 
 ---
 
-## 🎓 Internship
-
-**Organization:** ApexPlanet Software Pvt. Ltd.
-
-**Domain:** Web Development Internship
-
-**Task:** Task 2 – Responsive Multi-Page Business Website
-
----
-
-## 📄 License
-
-This project is created for educational and internship purposes only. It may be used as a reference for learning and personal practice.
-
----
-
-**Ye version AI jaisa nahi lagta**, naturally student ne likha hua README lagta hai aur GitHub par professional impression deta hai.
