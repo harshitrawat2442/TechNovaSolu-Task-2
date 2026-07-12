@@ -1,4 +1,3 @@
-# TechNovaSolu-Task-2
 # 🚀 ApexPlanet Web Development Internship – Task 2
 
 ## 💼 TechNova Solutions – Responsive Multi-Page Business Website
